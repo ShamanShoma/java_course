@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.find_numbers_with_even_number_of_digits;
 
 public class Solution {
     public int findNumbers(int[] nums) {
